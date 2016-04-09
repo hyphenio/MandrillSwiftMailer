@@ -1,5 +1,5 @@
 {
-    "name": "accord/mandrill-swiftmailer",
+    "name": "hyphenio/mandrill-swiftmailer",
     "description": "A SwiftMailer transport implementation for Mandrill",
     "keywords": ["mandrill", "swiftmailer"],
     "homepage": "https://github.com/AccordGroup/MandrillSwiftMailer",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.4",
-        "mandrill/mandrill": "~1.0",
+        "hyphenio/mandrill": "~1.0",
         "swiftmailer/swiftmailer": "~5.3"
     },
     "require-dev": {
